@@ -1,0 +1,16 @@
+{
+  "buildCommand": "cd backend && npm install",
+  "startCommand": "cd backend && npm start",
+  "envs": [
+    {
+      "key": "MONGODB_URI",
+      "value": "Add your MongoDB Atlas connection string here"
+    },
+    {
+      "key": "NODE_ENV",
+      "value": "production"
+    }
+  ],
+  "region": "oregon",
+  "plan": "free"
+}
