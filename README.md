@@ -397,3 +397,4 @@ If you encounter any issues or have questions, please open an issue on the [GitH
 - [x] All CRUD operations working
 - [x] Responsive design implemented
 - [x] Error handling implemented
+
